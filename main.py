@@ -1,7 +1,7 @@
-import tcod
+import basics_character
 
 def main():
-    print("Hello World!")
+    basics_character.main()
 
 if __name__ == '__main__':
     main()
