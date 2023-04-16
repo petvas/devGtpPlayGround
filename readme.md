@@ -1,15 +1,1 @@
-# Project Title
-
-Rogue game in Python 3 using tcod library
-
-## Description
-
-This project is about creating a rogue-like game in Python 3 using tcod library and some others. 
-
-## Features
-
-- Randomly generated levels
-- Turn-based combat system
-- Multiple character classes
-- Inventory management system
-- Interactive user interface
+Rogue game in Python 3 using tcod library and some others to create a unique gaming experience. Join us as we take on the challenge of creating a game that will keep you on your toes, with randomly generated levels and a turn-based combat system that will have you strategizing your next move. ## DescriptionThis project is about creating a rogue-like game in Python 3 using tcod library and some others. ## Features## Todo- Implement multiple character classes- Develop inventory management system
