@@ -2,6 +2,9 @@
 
 This is a rogue like game in Python 3 that uses `tcod` library and some others. The game is a dungeon crawler where the player must traverse through levels filled with monsters, treasures, and traps. 
 
+## TODO
+- Implement Features
+
 ## Features
 - Procedurally generated levels
 - Turn-based combat system
