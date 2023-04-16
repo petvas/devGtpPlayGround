@@ -6,7 +6,7 @@ This is a rogue like game in Python 3 that uses `tcod` library and some others. 
 - Implement Features
 - Make game description longer
 
-## Features
+## TODO
 - Procedurally generated levels
 - Turn-based combat system
 - Randomly generated loot
