@@ -37,8 +37,6 @@ def handle_events(con, player_x, player_y):
     return player_x, player_y
 
 def main():
-    tcod.console_set_custom_font('arial10x10.png', tcod.FONT_TYPE_GREYSCALE | tcod.FONT_LAYOUT_TCOD)
-    tcod.console_init_root(80, 50, title='Basics Character and Movement', fullscreen=False)
     con = tcod.console.Console(80, 50)
     player_x, player_y = 40, 25
     while True:
